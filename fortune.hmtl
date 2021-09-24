@@ -1,0 +1,15 @@
+var numKids  = 2;
+var partner  = 'Jennifer Santos';
+var geoLocation = 'Texas';
+var jobTitle = 'psychiatirst';
+var future = 'You will be a " psychiatrist doctor ' in ' the best hospital in the state ', and married to '
+ Jennifer Santos  '  with '2 ' kids.';
+console.log(future);
+function tellFortune(psychiatrist, Dallas,Texas,Jennifer santos,2 kids) {
+   var future = 'You will be a 'psychiatrist' in ' the best hospital in the state ', and married to '
+ jennifer santos '  with '2 ' kids.';
+   console.log(future);
+}
+tellFortune('Teacher', 'California', 'George Weasley', 3);
+tellFortune('Actor', 'Wyomming', 'Fred Weasley', 3000);
+tellFortune('Dental assistant', 'Russia', 'Alexandra Cruz', 0);
